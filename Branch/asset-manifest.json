@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63432ba2.css",
+    "main.js": "/static/js/main.21b94def.js",
+    "static/media/delivery.gif": "/static/media/delivery.2eeede3d1ef991eb7ae9.gif",
+    "static/media/bkd logo (1).png": "/static/media/bkd logo (1).35334f52de0592128c9b.png",
+    "static/media/logoicon.png": "/static/media/logoicon.65e0af8a5dbd56fb1e8d.png",
+    "static/media/logo.png": "/static/media/logo.9fa16ea2e72f63f8570c.png",
+    "static/media/ac.jpg": "/static/media/ac.0ca33d5898deb4f105dd.jpg",
+    "static/media/user.png": "/static/media/user.3c70c6dd4c2f7d7e6286.png",
+    "static/media/vendor.png": "/static/media/vendor.49e5f012d2f0cdd7e05c.png",
+    "static/media/logoIcon.png": "/static/media/logoIcon.66c2169aa0e041282be5.png",
+    "static/media/book.png": "/static/media/book.d34ef92a6a750206721a.png",
+    "static/media/vender.webp": "/static/media/vender.6f9e693449379218a354.webp",
+    "static/media/default-image.jpg": "/static/media/default-image.2e01288c0c1a3f24d743.jpg",
+    "index.html": "/index.html",
+    "main.63432ba2.css.map": "/static/css/main.63432ba2.css.map",
+    "main.21b94def.js.map": "/static/js/main.21b94def.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63432ba2.css",
+    "static/js/main.21b94def.js"
+  ]
+}

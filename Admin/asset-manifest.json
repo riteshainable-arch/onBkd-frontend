@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5606fc6.css",
+    "main.js": "/static/js/main.e7d9581d.js",
+    "static/media/segmet-review.jpg": "/static/media/segmet-review.048a25e8f5d0c9d201ba.jpg",
+    "static/media/storepickup.png": "/static/media/storepickup.bd0ab3109ca30ad1d2d5.png",
+    "static/media/bkdlogo.png": "/static/media/bkdlogo.35334f52de0592128c9b.png",
+    "static/media/revenue.png": "/static/media/revenue.cf883e1c2569a88045f8.png",
+    "static/media/logo.png": "/static/media/logo.7d7fc66039c9a352570c.png",
+    "static/media/logo1.png": "/static/media/logo1.7d7fc66039c9a352570c.png",
+    "static/media/homedelivery.png": "/static/media/homedelivery.a64d5dc4a4c61e185a3b.png",
+    "static/media/pending.png": "/static/media/pending.2318302a4b70e366522f.png",
+    "static/media/deliverd.png": "/static/media/deliverd.01543ed616151abda90d.png",
+    "static/media/deliveryPartner.png": "/static/media/deliveryPartner.e790c83ba3b1825f2df3.png",
+    "static/media/user.png": "/static/media/user.3c70c6dd4c2f7d7e6286.png",
+    "static/media/pickup.png": "/static/media/pickup.d6e1b6663e6993a6ebfe.png",
+    "static/media/login_img.avif": "/static/media/login_img.491a1863bc2bcc6f1be6.avif",
+    "static/media/NotImg.png": "/static/media/NotImg.5c1ea373638ebf1b6198.png",
+    "static/media/defaut_img.jpg": "/static/media/defaut_img.2e01288c0c1a3f24d743.jpg",
+    "static/media/allowedDCProductCode.xlsx": "/static/media/allowedDCProductCode.6544de34b4e65da64070.xlsx",
+    "static/media/productCodeStockLimit.xlsx": "/static/media/productCodeStockLimit.a331703405c7a32e4d10.xlsx",
+    "static/media/poolProductExcel.xlsx": "/static/media/poolProductExcel.a2b94ffea153f27b965a.xlsx",
+    "static/media/productCodeSegment.xlsx": "/static/media/productCodeSegment.771980023822846cb089.xlsx",
+    "index.html": "/index.html",
+    "main.d5606fc6.css.map": "/static/css/main.d5606fc6.css.map",
+    "main.e7d9581d.js.map": "/static/js/main.e7d9581d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5606fc6.css",
+    "static/js/main.e7d9581d.js"
+  ]
+}
