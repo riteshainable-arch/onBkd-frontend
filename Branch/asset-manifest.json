@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.63432ba2.css",
-    "main.js": "/static/js/main.9eeeddb2.js",
+    "main.css": "/static/css/main.e244834d.css",
+    "main.js": "/static/js/main.c10ec520.js",
     "static/media/delivery.gif": "/static/media/delivery.2eeede3d1ef991eb7ae9.gif",
     "static/media/bkd logo (1).png": "/static/media/bkd logo (1).35334f52de0592128c9b.png",
     "static/media/logoicon.png": "/static/media/logoicon.65e0af8a5dbd56fb1e8d.png",
@@ -14,11 +14,11 @@
     "static/media/vender.webp": "/static/media/vender.6f9e693449379218a354.webp",
     "static/media/default-image.jpg": "/static/media/default-image.2e01288c0c1a3f24d743.jpg",
     "index.html": "/index.html",
-    "main.63432ba2.css.map": "/static/css/main.63432ba2.css.map",
-    "main.9eeeddb2.js.map": "/static/js/main.9eeeddb2.js.map"
+    "main.e244834d.css.map": "/static/css/main.e244834d.css.map",
+    "main.c10ec520.js.map": "/static/js/main.c10ec520.js.map"
   },
   "entrypoints": [
-    "static/css/main.63432ba2.css",
-    "static/js/main.9eeeddb2.js"
+    "static/css/main.e244834d.css",
+    "static/js/main.c10ec520.js"
   ]
 }
