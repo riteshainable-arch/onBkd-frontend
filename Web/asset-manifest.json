@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.50a10942.css",
-    "main.js": "/static/js/main.9328b71e.js",
+    "main.css": "/static/css/main.fa623c33.css",
+    "main.js": "/static/js/main.fd5716b3.js",
     "static/media/delivery.gif": "/static/media/delivery.2eeede3d1ef991eb7ae9.gif",
     "static/media/confillti.gif": "/static/media/confillti.7c0c557e1222b6d18b66.gif",
     "static/media/checkout.png": "/static/media/checkout.17c64e2d875a74c8a5a6.png",
@@ -18,6 +18,9 @@
     "static/media/pay-success.gif": "/static/media/pay-success.ab65e9316f2c6f0052dc.gif",
     "static/media/not-found.jpg": "/static/media/not-found.86d3fa731dd6c2b8e037.jpg",
     "static/media/discount.png": "/static/media/discount.138609440f1c882f290d.png",
+    "static/media/buy2-get-1.png": "/static/media/buy2-get-1.68da65af0ba9af0ea4a4.png",
+    "static/media/buy1-get-2.png": "/static/media/buy1-get-2.c3cb55a8af42e7482988.png",
+    "static/media/buy1-get-1.png": "/static/media/buy1-get-1.6615bf7822c044397dce.png",
     "static/media/notdeliverd.png": "/static/media/notdeliverd.09aa7de8a74706874482.png",
     "static/media/initiat-gif.gif": "/static/media/initiat-gif.1b81d90f73f021af0e5b.gif",
     "static/media/3dlocation.png": "/static/media/3dlocation.e0a323441afddf91c5a3.png",
@@ -30,11 +33,11 @@
     "static/media/cardBg.png": "/static/media/cardBg.a2120c44ba9f10181943.png",
     "static/media/default_img.jpg": "/static/media/default_img.2e01288c0c1a3f24d743.jpg",
     "index.html": "/index.html",
-    "main.50a10942.css.map": "/static/css/main.50a10942.css.map",
-    "main.9328b71e.js.map": "/static/js/main.9328b71e.js.map"
+    "main.fa623c33.css.map": "/static/css/main.fa623c33.css.map",
+    "main.fd5716b3.js.map": "/static/js/main.fd5716b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.50a10942.css",
-    "static/js/main.9328b71e.js"
+    "static/css/main.fa623c33.css",
+    "static/js/main.fd5716b3.js"
   ]
 }
