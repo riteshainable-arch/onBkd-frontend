@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.1d668b7f.css",
-    "main.js": "/static/js/main.6e5fae63.js",
+    "main.css": "/static/css/main.e2fcf539.css",
+    "main.js": "/static/js/main.42f1978a.js",
     "static/media/segmet-review.jpg": "/static/media/segmet-review.048a25e8f5d0c9d201ba.jpg",
     "static/media/storepickup.png": "/static/media/storepickup.bd0ab3109ca30ad1d2d5.png",
     "static/media/bkdlogo.png": "/static/media/bkdlogo.35334f52de0592128c9b.png",
     "static/media/revenue.png": "/static/media/revenue.cf883e1c2569a88045f8.png",
+    "static/media/dashboard_card_bg.png": "/static/media/dashboard_card_bg.e292b04a89ed638c34ac.png",
     "static/media/logo.png": "/static/media/logo.7d7fc66039c9a352570c.png",
     "static/media/logo1.png": "/static/media/logo1.7d7fc66039c9a352570c.png",
     "static/media/homedelivery.png": "/static/media/homedelivery.a64d5dc4a4c61e185a3b.png",
@@ -23,11 +24,11 @@
     "static/media/poolProductExcel.xlsx": "/static/media/poolProductExcel.a2b94ffea153f27b965a.xlsx",
     "static/media/productCodeSegment.xlsx": "/static/media/productCodeSegment.771980023822846cb089.xlsx",
     "index.html": "/index.html",
-    "main.1d668b7f.css.map": "/static/css/main.1d668b7f.css.map",
-    "main.6e5fae63.js.map": "/static/js/main.6e5fae63.js.map"
+    "main.e2fcf539.css.map": "/static/css/main.e2fcf539.css.map",
+    "main.42f1978a.js.map": "/static/js/main.42f1978a.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d668b7f.css",
-    "static/js/main.6e5fae63.js"
+    "static/css/main.e2fcf539.css",
+    "static/js/main.42f1978a.js"
   ]
 }
