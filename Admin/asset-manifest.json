@@ -1,12 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e2fcf539.css",
-    "main.js": "/static/js/main.42f1978a.js",
+    "main.css": "/static/css/main.71b9f5de.css",
+    "main.js": "/static/js/main.1db10098.js",
     "static/media/segmet-review.jpg": "/static/media/segmet-review.048a25e8f5d0c9d201ba.jpg",
+    "static/media/Policies-banner.jpg": "/static/media/Policies-banner.721ea0c73cc2de957fc5.jpg",
     "static/media/storepickup.png": "/static/media/storepickup.bd0ab3109ca30ad1d2d5.png",
     "static/media/bkdlogo.png": "/static/media/bkdlogo.35334f52de0592128c9b.png",
     "static/media/revenue.png": "/static/media/revenue.cf883e1c2569a88045f8.png",
+    "index.html": "/index.html",
     "static/media/dashboard_card_bg.png": "/static/media/dashboard_card_bg.e292b04a89ed638c34ac.png",
+    "static/media/about.jpg": "/static/media/about.8e97f3e8b63b60140979.jpg",
+    "static/media/user.png": "/static/media/user.3c70c6dd4c2f7d7e6286.png",
     "static/media/logo.png": "/static/media/logo.7d7fc66039c9a352570c.png",
     "static/media/logo1.png": "/static/media/logo1.7d7fc66039c9a352570c.png",
     "static/media/homedelivery.png": "/static/media/homedelivery.a64d5dc4a4c61e185a3b.png",
@@ -14,7 +18,6 @@
     "static/media/deliverd.png": "/static/media/deliverd.01543ed616151abda90d.png",
     "static/media/deliveryPartner.png": "/static/media/deliveryPartner.e790c83ba3b1825f2df3.png",
     "static/media/logoIcon.png": "/static/media/logoIcon.66c2169aa0e041282be5.png",
-    "static/media/user.png": "/static/media/user.3c70c6dd4c2f7d7e6286.png",
     "static/media/pickup.png": "/static/media/pickup.d6e1b6663e6993a6ebfe.png",
     "static/media/login_img.avif": "/static/media/login_img.491a1863bc2bcc6f1be6.avif",
     "static/media/NotImg.png": "/static/media/NotImg.5c1ea373638ebf1b6198.png",
@@ -23,12 +26,11 @@
     "static/media/productCodeStockLimit.xlsx": "/static/media/productCodeStockLimit.a331703405c7a32e4d10.xlsx",
     "static/media/poolProductExcel.xlsx": "/static/media/poolProductExcel.a2b94ffea153f27b965a.xlsx",
     "static/media/productCodeSegment.xlsx": "/static/media/productCodeSegment.771980023822846cb089.xlsx",
-    "index.html": "/index.html",
-    "main.e2fcf539.css.map": "/static/css/main.e2fcf539.css.map",
-    "main.42f1978a.js.map": "/static/js/main.42f1978a.js.map"
+    "main.71b9f5de.css.map": "/static/css/main.71b9f5de.css.map",
+    "main.1db10098.js.map": "/static/js/main.1db10098.js.map"
   },
   "entrypoints": [
-    "static/css/main.e2fcf539.css",
-    "static/js/main.42f1978a.js"
+    "static/css/main.71b9f5de.css",
+    "static/js/main.1db10098.js"
   ]
 }
