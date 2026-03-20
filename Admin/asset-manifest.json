@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.71b9f5de.css",
-    "main.js": "/static/js/main.1db10098.js",
+    "main.js": "/static/js/main.577a95c9.js",
     "static/media/segmet-review.jpg": "/static/media/segmet-review.048a25e8f5d0c9d201ba.jpg",
     "static/media/Policies-banner.jpg": "/static/media/Policies-banner.721ea0c73cc2de957fc5.jpg",
     "static/media/storepickup.png": "/static/media/storepickup.bd0ab3109ca30ad1d2d5.png",
@@ -19,7 +19,7 @@
     "static/media/deliveryPartner.png": "/static/media/deliveryPartner.e790c83ba3b1825f2df3.png",
     "static/media/logoIcon.png": "/static/media/logoIcon.66c2169aa0e041282be5.png",
     "static/media/pickup.png": "/static/media/pickup.d6e1b6663e6993a6ebfe.png",
-    "static/media/login_img.avif": "/static/media/login_img.491a1863bc2bcc6f1be6.avif",
+    "static/media/login_img.png": "/static/media/login_img.491a1863bc2bcc6f1be6.png",
     "static/media/NotImg.png": "/static/media/NotImg.5c1ea373638ebf1b6198.png",
     "static/media/defaut_img.jpg": "/static/media/defaut_img.2e01288c0c1a3f24d743.jpg",
     "static/media/allowedDCProductCode.xlsx": "/static/media/allowedDCProductCode.6544de34b4e65da64070.xlsx",
@@ -27,10 +27,10 @@
     "static/media/poolProductExcel.xlsx": "/static/media/poolProductExcel.a2b94ffea153f27b965a.xlsx",
     "static/media/productCodeSegment.xlsx": "/static/media/productCodeSegment.771980023822846cb089.xlsx",
     "main.71b9f5de.css.map": "/static/css/main.71b9f5de.css.map",
-    "main.1db10098.js.map": "/static/js/main.1db10098.js.map"
+    "main.577a95c9.js.map": "/static/js/main.577a95c9.js.map"
   },
   "entrypoints": [
     "static/css/main.71b9f5de.css",
-    "static/js/main.1db10098.js"
+    "static/js/main.577a95c9.js"
   ]
 }
