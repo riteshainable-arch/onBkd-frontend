@@ -25,6 +25,7 @@
     "static/media/allowedDCProductCode.xlsx": "/static/media/allowedDCProductCode.6544de34b4e65da64070.xlsx",
     "static/media/productCodeStockLimit.xlsx": "/static/media/productCodeStockLimit.a331703405c7a32e4d10.xlsx",
     "static/media/poolProductExcel.xlsx": "/static/media/poolProductExcel.a2b94ffea153f27b965a.xlsx",
+<<<<<<< HEAD
     "static/media/productCodeSegment.xlsx": "/static/media/productCodeSegment.771980023822846cb089.xlsx",
     "main.e5ace755.css.map": "/static/css/main.e5ace755.css.map",
     "main.43c897ea.js.map": "/static/js/main.43c897ea.js.map"
@@ -32,5 +33,12 @@
   "entrypoints": [
     "static/css/main.e5ace755.css",
     "static/js/main.43c897ea.js"
+=======
+    "static/media/productCodeSegment.xlsx": "/static/media/productCodeSegment.771980023822846cb089.xlsx"
+  },
+  "entrypoints": [
+    "static/css/main.ed94a362.css",
+    "static/js/main.4a69447f.js"
+>>>>>>> 467737ac0632dcef04fc75b13c3b8b590b885564
   ]
 }
