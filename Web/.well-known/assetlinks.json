@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.bkdapp.bkd_app",
+            "sha256_cert_fingerprints": [
+                "D3:91:F3:83:5E:F4:53:C4:42:C8:11:98:D9:7F:31:18:EB:A1:65:93:E6:11:1E:10:88:40:62:53:EF:72:EF:25"
+            ]
+        }
+    }
+]
