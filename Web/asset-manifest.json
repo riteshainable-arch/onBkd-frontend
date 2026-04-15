@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb061318.css",
-    "main.js": "/static/js/main.f078030f.js",
+    "main.css": "/static/css/main.ae96b2f9.css",
+    "main.js": "/static/js/main.fa98ca4a.js",
     "static/media/delivery.gif": "/static/media/delivery.2eeede3d1ef991eb7ae9.gif",
     "static/media/confillti.gif": "/static/media/confillti.7c0c557e1222b6d18b66.gif",
     "static/media/poolimg.png": "/static/media/poolimg.6fca4cfca76f2007a805.png",
@@ -32,12 +32,10 @@
     "static/media/logo.png": "/static/media/logo.7d7fc66039c9a352570c.png",
     "static/media/ruppeess.webp": "/static/media/ruppeess.5810b4841b22e5e8da7b.webp",
     "static/media/cardBg.png": "/static/media/cardBg.a2120c44ba9f10181943.png",
-    "static/media/default_img.jpg": "/static/media/default_img.2e01288c0c1a3f24d743.jpg",
-    "main.bb061318.css.map": "/static/css/main.bb061318.css.map",
-    "main.f078030f.js.map": "/static/js/main.f078030f.js.map"
+    "static/media/default_img.jpg": "/static/media/default_img.2e01288c0c1a3f24d743.jpg"
   },
   "entrypoints": [
-    "static/css/main.bb061318.css",
-    "static/js/main.f078030f.js"
+    "static/css/main.ae96b2f9.css",
+    "static/js/main.fa98ca4a.js"
   ]
 }
