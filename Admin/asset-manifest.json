@@ -1,12 +1,7 @@
 {
   "files": {
-<<<<<<< HEAD
     "main.css": "/static/css/main.3ddc911c.css",
-    "main.js": "/static/js/main.c929dba6.js",
-=======
-    "main.css": "/static/css/main.26b7b303.css",
-    "main.js": "/static/js/main.5064f81c.js",
->>>>>>> 025d5d7533d740a22a5a380fedf9e6ffc80ac838
+    "main.js": "/static/js/main.c04794f9.js",
     "static/media/segmet-review.jpg": "/static/media/segmet-review.048a25e8f5d0c9d201ba.jpg",
     "static/media/Policies-banner.jpg": "/static/media/Policies-banner.721ea0c73cc2de957fc5.jpg",
     "static/media/storepickup.png": "/static/media/storepickup.bd0ab3109ca30ad1d2d5.png",
@@ -32,15 +27,10 @@
     "static/media/poolProductExcel.xlsx": "/static/media/poolProductExcel.a2b94ffea153f27b965a.xlsx",
     "static/media/productCodeSegment.xlsx": "/static/media/productCodeSegment.771980023822846cb089.xlsx",
     "main.3ddc911c.css.map": "/static/css/main.3ddc911c.css.map",
-    "main.c929dba6.js.map": "/static/js/main.c929dba6.js.map"
+    "main.c04794f9.js.map": "/static/js/main.c04794f9.js.map"
   },
   "entrypoints": [
-<<<<<<< HEAD
     "static/css/main.3ddc911c.css",
-    "static/js/main.c929dba6.js"
-=======
-    "static/css/main.26b7b303.css",
-    "static/js/main.5064f81c.js"
->>>>>>> 025d5d7533d740a22a5a380fedf9e6ffc80ac838
+    "static/js/main.c04794f9.js"
   ]
 }
