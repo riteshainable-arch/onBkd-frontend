@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.346015bc.css",
-    "main.js": "/static/js/main.789f989a.js",
+    "main.css": "/static/css/main.3baff2e0.css",
+    "main.js": "/static/js/main.6c195852.js",
     "static/media/delivery.gif": "/static/media/delivery.2eeede3d1ef991eb7ae9.gif",
     "static/media/confillti.gif": "/static/media/confillti.7c0c557e1222b6d18b66.gif",
     "static/media/poolimg.png": "/static/media/poolimg.6fca4cfca76f2007a805.png",
@@ -22,7 +22,6 @@
     "static/media/discount.png": "/static/media/discount.138609440f1c882f290d.png",
     "static/media/notdeliverd.png": "/static/media/notdeliverd.09aa7de8a74706874482.png",
     "static/media/initiat-gif.gif": "/static/media/initiat-gif.1b81d90f73f021af0e5b.gif",
-    "static/media/3dlocation.png": "/static/media/3dlocation.e0a323441afddf91c5a3.png",
     "static/media/gmail3d.png": "/static/media/gmail3d.3d5841f52fa50c92316f.png",
     "static/media/support_img.jpg": "/static/media/support_img.cff27d7f11bab25405e3.jpg",
     "index.html": "/index.html",
@@ -32,10 +31,12 @@
     "static/media/logo.png": "/static/media/logo.7d7fc66039c9a352570c.png",
     "static/media/ruppeess.webp": "/static/media/ruppeess.5810b4841b22e5e8da7b.webp",
     "static/media/cardBg.png": "/static/media/cardBg.a2120c44ba9f10181943.png",
-    "static/media/default_img.jpg": "/static/media/default_img.2e01288c0c1a3f24d743.jpg"
+    "static/media/default_img.jpg": "/static/media/default_img.2e01288c0c1a3f24d743.jpg",
+    "main.3baff2e0.css.map": "/static/css/main.3baff2e0.css.map",
+    "main.6c195852.js.map": "/static/js/main.6c195852.js.map"
   },
   "entrypoints": [
-    "static/css/main.346015bc.css",
-    "static/js/main.789f989a.js"
+    "static/css/main.3baff2e0.css",
+    "static/js/main.6c195852.js"
   ]
 }
