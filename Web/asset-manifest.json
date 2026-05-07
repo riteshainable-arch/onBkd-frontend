@@ -1,17 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.272fffad.css",
-    "main.js": "/static/js/main.a4313ccc.js",
+    "main.js": "/static/js/main.4dc03178.js",
     "static/media/delivery.gif": "/static/media/delivery.2eeede3d1ef991eb7ae9.gif",
     "static/media/confillti.gif": "/static/media/confillti.7c0c557e1222b6d18b66.gif",
     "static/media/poolimg.png": "/static/media/poolimg.6fca4cfca76f2007a805.png",
     "static/media/isOnline.png": "/static/media/isOnline.690eb3cb52a5456a697e.png",
     "static/media/call.png": "/static/media/call.b904c514eb5a162989cd.png",
     "static/media/BG.jpg": "/static/media/BG.7ab59b7f5fd8feefa5c8.jpg",
-    "static/media/buy2-get-1.png": "/static/media/buy2-get-1.7adc543ab9568eac2f19.png",
-    "static/media/buy1-get-2.png": "/static/media/buy1-get-2.f2589898487863fde7c0.png",
     "static/media/percent.webp": "/static/media/percent.233f5d603bf6b1395d62.webp",
-    "static/media/buy1-get-1.png": "/static/media/buy1-get-1.c43228f22ad151a27412.png",
     "static/media/faq.jpg": "/static/media/faq.ad9f04b2346d4ec4841c.jpg",
     "static/media/output-onlinegiftools (15).gif": "/static/media/output-onlinegiftools (15).84c42b12f5effef0147c.gif",
     "static/media/cancel-payment.gif": "/static/media/cancel-payment.7b5d9b128b3c50303d68.gif",
@@ -20,13 +17,24 @@
     "static/media/pay-success.gif": "/static/media/pay-success.ab65e9316f2c6f0052dc.gif",
     "static/media/not-found.jpg": "/static/media/not-found.86d3fa731dd6c2b8e037.jpg",
     "static/media/discount.png": "/static/media/discount.138609440f1c882f290d.png",
+    "static/media/BUY_1_GET_4_ON_MRP.png": "/static/media/BUY_1_GET_4_ON_MRP.5b3b133f68c8d079bbca.png",
+    "static/media/BUY_1_GET_5_ON_MRP.png": "/static/media/BUY_1_GET_5_ON_MRP.668a5c2e5a807e1774a0.png",
+    "static/media/BUY_3_GET_1_ON_MRP.png": "/static/media/BUY_3_GET_1_ON_MRP.3b1d5d5589f42ef68b97.png",
+    "static/media/BUY_5_GET_1_ON_MRP.png": "/static/media/BUY_5_GET_1_ON_MRP.05632757f85ddf6cefe6.png",
     "static/media/notdeliverd.png": "/static/media/notdeliverd.09aa7de8a74706874482.png",
+    "static/media/BUY_1_GET_3_ON_MRP.png": "/static/media/BUY_1_GET_3_ON_MRP.4404effdda2b463ba9f1.png",
+    "static/media/BUY_2_GET_1_ON_MRP.png": "/static/media/BUY_2_GET_1_ON_MRP.cdc16df70782c0a6a715.png",
+    "static/media/SUPER_SAVER_PRICE.png": "/static/media/SUPER_SAVER_PRICE.0f243600d65a5fafea61.png",
+    "static/media/GET_PRODUCT_FREE.png": "/static/media/GET_PRODUCT_FREE.0f4866730ad70daac00d.png",
+    "static/media/BUY_4_GET_1_ON_MRP.png": "/static/media/BUY_4_GET_1_ON_MRP.5ed2a45dd78becd96995.png",
+    "static/media/PROMOTION_PRICE.png": "/static/media/PROMOTION_PRICE.8cb99b9f769199701547.png",
     "static/media/initiat-gif.gif": "/static/media/initiat-gif.1b81d90f73f021af0e5b.gif",
+    "static/media/BUY_1_GET_1_ON_MRP_STICKER.png": "/static/media/BUY_1_GET_1_ON_MRP_STICKER.669d88a47515be75dbd7.png",
+    "static/media/BUY_1_GET_2_ON_MRP.png": "/static/media/BUY_1_GET_2_ON_MRP.b0678201589b583a963e.png",
     "static/media/gmail3d.png": "/static/media/gmail3d.3d5841f52fa50c92316f.png",
     "static/media/support_img.jpg": "/static/media/support_img.cff27d7f11bab25405e3.jpg",
     "index.html": "/index.html",
     "static/media/emptyImage.png": "/static/media/emptyImage.3bb0352dd342c145f6be.png",
-    "static/media/buy1-get-3.png": "/static/media/buy1-get-3.36f886b0366ee3b61dcc.png",
     "static/media/bkdlogo.png": "/static/media/bkdlogo.7d7fc66039c9a352570c.png",
     "static/media/logo.png": "/static/media/logo.7d7fc66039c9a352570c.png",
     "static/media/ruppeess.webp": "/static/media/ruppeess.5810b4841b22e5e8da7b.webp",
@@ -35,6 +43,6 @@
   },
   "entrypoints": [
     "static/css/main.272fffad.css",
-    "static/js/main.a4313ccc.js"
+    "static/js/main.4dc03178.js"
   ]
 }
