@@ -1,14 +1,14 @@
 {
-  "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appID": "HX6866S57X.com.bkdapp.bkdApp.test",
-        "paths": [
-          "/share-link",
-          "/share-link/*"
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "HX6866S57X.com.bkdapp.bkdApp.test",
+                "paths": [
+                    "/share-link",
+                    "/share-link/*"
+                ]
+            }
         ]
-      }
-    ]
-  }
+    }
 }

@@ -1,14 +1,16 @@
 [
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.bkdapp.bkd_app",
-      "sha256_cert_fingerprints": [
-        "7A:FB:D4:96:79:4D:2B:F2:2F:BF:DB:D8:3B:FE:48:B7:29:AB:56:1C:A1:BD:5D:8D:8F:43:ED:F1:A9:4B:9D:4E"
-      ]
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls",
+            "delegate_permission/common.get_login_creds"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.bkdapp.bkd_app",
+            "sha256_cert_fingerprints": [
+                "7A:FB:D4:96:79:4D:2B:F2:2F:BF:DB:D8:3B:FE:48:B7:29:AB:56:1C:A1:BD:5D:8D:8F:43:ED:F1:A9:4B:9D:4E",
+                "2C:82:F9:E6:75:EC:AA:DC:D0:58:4E:96:24:B7:92:5A:10:7E:61:C1:0A:B8:1B:E5:82:99:1A:86:B1:01:30:7A"
+            ]
+        }
     }
-  }
 ]
