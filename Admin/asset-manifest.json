@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.a3ab1ad1.css",
-    "main.js": "/static/js/main.6710811c.js",
+    "main.css": "/static/css/main.d18575f8.css",
+    "main.js": "/static/js/main.da7a46fd.js",
     "static/media/segmet-review.jpg": "/static/media/segmet-review.048a25e8f5d0c9d201ba.jpg",
     "static/media/Policies-banner.jpg": "/static/media/Policies-banner.721ea0c73cc2de957fc5.jpg",
     "static/media/storepickup.png": "/static/media/storepickup.bd0ab3109ca30ad1d2d5.png",
@@ -27,7 +27,7 @@
     "static/media/productCodeSegment.xlsx": "/static/media/productCodeSegment.771980023822846cb089.xlsx"
   },
   "entrypoints": [
-    "static/css/main.a3ab1ad1.css",
-    "static/js/main.6710811c.js"
+    "static/css/main.d18575f8.css",
+    "static/js/main.da7a46fd.js"
   ]
 }
