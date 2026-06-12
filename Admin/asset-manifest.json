@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d2730dbf.css",
-    "main.js": "/static/js/main.e86cdbe7.js",
+    "main.js": "/static/js/main.cd9758a7.js",
     "static/media/segmet-review.jpg": "/static/media/segmet-review.048a25e8f5d0c9d201ba.jpg",
     "static/media/Policies-banner.jpg": "/static/media/Policies-banner.721ea0c73cc2de957fc5.jpg",
     "static/media/storepickup.png": "/static/media/storepickup.bd0ab3109ca30ad1d2d5.png",
@@ -26,10 +26,10 @@
     "static/media/poolProductExcel.xlsx": "/static/media/poolProductExcel.a2b94ffea153f27b965a.xlsx",
     "static/media/productCodeSegment.xlsx": "/static/media/productCodeSegment.771980023822846cb089.xlsx",
     "main.d2730dbf.css.map": "/static/css/main.d2730dbf.css.map",
-    "main.e86cdbe7.js.map": "/static/js/main.e86cdbe7.js.map"
+    "main.cd9758a7.js.map": "/static/js/main.cd9758a7.js.map"
   },
   "entrypoints": [
     "static/css/main.d2730dbf.css",
-    "static/js/main.e86cdbe7.js"
+    "static/js/main.cd9758a7.js"
   ]
 }
