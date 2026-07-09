@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0a87075.css",
-    "main.js": "/static/js/main.e30cc874.js",
+    "main.js": "/static/js/main.24399e54.js",
     "static/media/delivery.gif": "/static/media/delivery.2eeede3d1ef991eb7ae9.gif",
     "static/media/bkd logo (1).png": "/static/media/bkd logo (1).35334f52de0592128c9b.png",
     "index.html": "/index.html",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.c0a87075.css",
-    "static/js/main.e30cc874.js"
+    "static/js/main.24399e54.js"
   ]
 }
