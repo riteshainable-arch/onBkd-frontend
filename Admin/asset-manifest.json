@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fffb04c8.css",
-    "main.js": "/static/js/main.c85da034.js",
+    "main.js": "/static/js/main.dd214b0e.js",
     "static/media/segmet-review.jpg": "/static/media/segmet-review.048a25e8f5d0c9d201ba.jpg",
     "static/media/Policies-banner.jpg": "/static/media/Policies-banner.721ea0c73cc2de957fc5.jpg",
     "static/media/storepickup.png": "/static/media/storepickup.bd0ab3109ca30ad1d2d5.png",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.fffb04c8.css",
-    "static/js/main.c85da034.js"
+    "static/js/main.dd214b0e.js"
   ]
 }
