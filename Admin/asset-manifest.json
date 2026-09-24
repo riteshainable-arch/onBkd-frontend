@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.65ba98d8.css",
-    "main.js": "/static/js/main.93877352.js",
+    "main.css": "/static/css/main.c9344048.css",
+    "main.js": "/static/js/main.2850098d.js",
     "static/media/segmet-review.jpg": "/static/media/segmet-review.048a25e8f5d0c9d201ba.jpg",
     "static/media/Policies-banner.jpg": "/static/media/Policies-banner.721ea0c73cc2de957fc5.jpg",
     "static/media/storepickup.png": "/static/media/storepickup.bd0ab3109ca30ad1d2d5.png",
@@ -9,7 +9,6 @@
     "static/media/revenue.png": "/static/media/revenue.cf883e1c2569a88045f8.png",
     "index.html": "/index.html",
     "static/media/about.jpg": "/static/media/about.8e97f3e8b63b60140979.jpg",
-    "static/media/user.png": "/static/media/user.3c70c6dd4c2f7d7e6286.png",
     "static/media/logo.png": "/static/media/logo.7d7fc66039c9a352570c.png",
     "static/media/logo1.png": "/static/media/logo1.7d7fc66039c9a352570c.png",
     "static/media/homedelivery.png": "/static/media/homedelivery.a64d5dc4a4c61e185a3b.png",
@@ -17,6 +16,7 @@
     "static/media/deliverd.png": "/static/media/deliverd.01543ed616151abda90d.png",
     "static/media/deliveryPartner.png": "/static/media/deliveryPartner.e790c83ba3b1825f2df3.png",
     "static/media/logoIcon.png": "/static/media/logoIcon.66c2169aa0e041282be5.png",
+    "static/media/user.png": "/static/media/user.3c70c6dd4c2f7d7e6286.png",
     "static/media/pickup.png": "/static/media/pickup.d6e1b6663e6993a6ebfe.png",
     "static/media/login_img.png": "/static/media/login_img.491a1863bc2bcc6f1be6.png",
     "static/media/NotImg.png": "/static/media/NotImg.5c1ea373638ebf1b6198.png",
@@ -27,7 +27,7 @@
     "static/media/productCodeSegment.xlsx": "/static/media/productCodeSegment.771980023822846cb089.xlsx"
   },
   "entrypoints": [
-    "static/css/main.65ba98d8.css",
-    "static/js/main.93877352.js"
+    "static/css/main.c9344048.css",
+    "static/js/main.2850098d.js"
   ]
 }

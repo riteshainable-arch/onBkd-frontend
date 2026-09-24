@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.15e94cd1.css",
-    "main.js": "/static/js/main.db006a0e.js",
+    "main.css": "/static/css/main.21efacea.css",
+    "main.js": "/static/js/main.de7ab951.js",
     "static/media/bkd logo (1).png": "/static/media/bkd logo (1).35334f52de0592128c9b.png",
     "index.html": "/index.html",
     "static/media/ac.jpg": "/static/media/ac.0ca33d5898deb4f105dd.jpg",
@@ -13,7 +13,7 @@
     "static/media/default-image.jpg": "/static/media/default-image.2e01288c0c1a3f24d743.jpg"
   },
   "entrypoints": [
-    "static/css/main.15e94cd1.css",
-    "static/js/main.db006a0e.js"
+    "static/css/main.21efacea.css",
+    "static/js/main.de7ab951.js"
   ]
 }
